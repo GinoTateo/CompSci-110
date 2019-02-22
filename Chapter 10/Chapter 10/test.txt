@@ -1,0 +1,7 @@
+
+Pretend that you have been hired by the National Security Agency (NSA) to write a program that
+scrambles the text in a text file, and rewrites it as a new file. Someone else will be hired to write a
+program to unscramble the file and output it to the console screen. In this way, the NSA can put
+secret messages into text files, scramble the files with your program, and send them as attachments
+to email. The recipients of the email messages will use the decoder program to read the file and
+display the original message.
