@@ -1,0 +1,1 @@
+These are some assignments and projects I worked on in my intro to computer science class at Diablo Valley College. Xcode was primarily used.
